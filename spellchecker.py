@@ -1,7 +1,3 @@
-# https://cloud.google.com/translate/docs/quickstart-client-libraries#client-libraries-install-python
-# Använda Google's API för att hitta översättningar. Detta kostar pengar
-# Använd istället googletrans men den buggar atm
-
 from difflib import SequenceMatcher
 import csv
 
